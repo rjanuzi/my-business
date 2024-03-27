@@ -1,0 +1,1 @@
+python -m flask --app app run --debug -p 80
